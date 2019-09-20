@@ -298,7 +298,7 @@ body #container #survey-form #radiobtn .radiobtn-label.R label {
 /* checkbox */
 body #container #survey-form #checkbox {
   width: 100%;
-  padding-bottom: 320px;
+  padding-bottom: 700px;
 }
 body #container #survey-form #checkbox .checkbox-label.L {
   width: 50%;
