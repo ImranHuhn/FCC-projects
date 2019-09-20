@@ -304,6 +304,12 @@ body #wide-container #narrow-container #products .product-box {
   border: 1px solid lightgray;
   border-radius: 5px;
 }
+body #wide-container #narrow-container #products .product-box img {
+  display: flex;
+  margin: 20px auto;
+  width: 150px;
+  height: 150px;
+}
 body #wide-container #narrow-container #products .product-box h4 {
   background-color: #F47102;
   font-family: sans-serif;
@@ -320,7 +326,7 @@ body #wide-container #narrow-container #products .product-box h3 {
 }
 body #wide-container #narrow-container #products .product-box p {
   text-align: center;
-  padding: 5px 0 40px; 
+  padding: 5px 20px 40px; 
   line-height: 1.5;
 }
 body #wide-container #narrow-container #products .product-box .select-btn {
