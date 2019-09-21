@@ -86,9 +86,9 @@ body #header #logo {
   font-size: 1.2rem;
   padding: 15px 0 15px 70px;
 }
-body #header #logo .fas {
+/* body #header #logo .fas {
   
-}
+} */
 body #header #logo .fas span {
   font-family: 'Racing Sans One', cursive;
   letter-spacing: 3px;
@@ -364,9 +364,9 @@ body #wide-container #narrow-container footer #footer-container {
   float: right;
   padding: 20px;
 }
-body #wide-container #narrow-container footer #footer-container #footer-links {
+/* body #wide-container #narrow-container footer #footer-container #footer-links {
   
-}
+} */
 body #wide-container #narrow-container footer #footer-container #footer-links a {
   text-decoration: none;
   font-family: sans-serif;
