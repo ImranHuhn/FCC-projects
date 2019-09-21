@@ -157,7 +157,7 @@ body #wide-container #img-container img {
 }
 body #wide-container #img-container #top-container {
   position: absolute;
-  width 100%;
+  width: 100%;
   height: 100%;
   top: 40%;
   left: 100px;
